@@ -58,16 +58,6 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [A library form Phill Schatzmann to implement audio inputs](https://github.com/pschatzmann/arduino-audio-tools)
-
-
-
-
 <!-- EXAMPLE OF OUTPUT -->
 ## output
 
