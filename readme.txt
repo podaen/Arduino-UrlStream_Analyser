@@ -10,7 +10,6 @@ Here's why:
 
 In the near futher there will be a measurement of datarate, corsponding with the bandwith of your network.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -20,7 +19,6 @@ This section is developed for an ESP32 and should list any major frameworks/libr
 
 * [arduino-esp32](https://github.com/espressif/arduino-esp32/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -33,7 +31,6 @@ Just install the framework with arduino IDE in the board manager, or you could f
 
 Get the library.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -58,7 +55,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -69,7 +65,6 @@ Use this space to list resources you find helpful and would like to give credit 
 
 * [A library form Phill Schatzmann to implement audio inputs](https://github.com/pschatzmann/arduino-audio-tools)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
