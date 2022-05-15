@@ -7,6 +7,7 @@
 
 #include "Arduino_UrlStream_Analyser.h"
 
+
 StreamAnalyserHTTPClient::StreamAnalyserHTTPClient()
 {
 }
@@ -38,12 +39,9 @@ bool StreamAnalyserHTTPClient::begin(const char* Url) {
         if (httpCode == HTTP_CODE_OK) {
             Serial.print("HTTP_CODE_OK: ");
             Serial.println(HTTP_CODE_OK);
-            Serial.println("here");
             stream = http.getStreamPtr();
-            Serial.println("here");
            
             len = this->stream->available();
-            Serial.println("here");
             last1 = millis();
             return true;
         }
